@@ -7,6 +7,7 @@ Atualmente curso Pós-Graduação em Aplicações para Dispositivos Móveis e bu
 
 
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
